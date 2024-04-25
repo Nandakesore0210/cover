@@ -74,7 +74,8 @@ Publish the website in the LocalHost.
 
 
 ## OUTPUT:
-![Uploading Screenshot (143).png…]()
+![Screenshot (143)](https://github.com/Nandakesore0210/cover/assets/149365088/dc325be5-cc35-4e20-bd4c-abb43acab84a)
+
 
 
 ## RESULT:
